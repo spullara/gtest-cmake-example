@@ -2,3 +2,5 @@
 *.vim
 *.swp
 build/*
+*~
+.idea
